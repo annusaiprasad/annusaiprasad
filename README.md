@@ -1,71 +1,90 @@
-### Hi, I'm Devi Venkata Sai Prasad Annu! 👋
-<a href="https://www.linkedin.com/in/dvspa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-# Hi, I'm Devi Venkata Sai Prasad Annu! 👋
+# 👋 Hi, I'm Devi Venkata Sai Prasad Annu!
 
-## 🚀 Cybersecurity Professional | SOC Analyst | Ethical Hacker
+<a href="https://www.linkedin.com/in/dvspa">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📍 **Location:** Jersey City, NJ 07304  
-📧 **Email:** DA41230@pace.edu  
-📞 **Phone:** +1 201-268-9960  
+## 🚀 Cybersecurity Professional | SOC Analyst | Ethical Hacker | Digital Forensics Enthusiast
+
+📍 Jersey City, NJ 07304  
+📧 DA41230@pace.edu  
+📞 +1 (201) 268-9960  
 
 ---
 
 ## 🏆 Certifications
-- **EC-Council:** Certified Ethical Hacker (CEHv11), April 2022  
-- **Microsoft:** MTA – Security, June 2022  
-- **NPTEL:** Ethical Hacking, April 2022  
+- **Certified Ethical Hacker (CEH v11)** – EC-Council  
+- **MTA – Security Fundamentals** – Microsoft  
+- **Ethical Hacking** – NPTEL  
 
 ---
 
-## 💼 Relevant Experience
+## 💼 Professional Experience
 
-### SOC Analyst Tier I | Repo Builders, New Delhi, India  
-📅 *May 2022 – May 2023*  
-- Monitored and analyzed security alerts using SIEM tools like Splunk and ArcSight.
-- Conducted initial triage and investigation of security incidents.
-- Performed regular vulnerability assessments to enhance security posture.
+### 🔒 SOC Analyst – Tier I  
+**Repo Builders**, New Delhi, India  
+*May 2022 – May 2023*  
+- Monitored security events and alerts using **SIEM tools** (Splunk, ArcSight)  
+- Performed **initial triage, investigation, and escalation** of incidents  
+- Conducted routine **vulnerability assessments** and supported remediation efforts  
 
-### Cybersecurity Analyst Intern | Repo Builders, New Delhi, India  
-📅 *January 2022 – April 2022*  
-- Implemented security policies ensuring compliance with industry standards.
-- Conducted vulnerability assessments and penetration testing.
-
----
-
-## 🛠️ Skills & Tools
-
-- **Programming:** C, C++, Python, SQL, HTML, CSS  
-- **Penetration Testing:** Metasploit, Burp Suite, Hydra, Nmap, Wireshark, OWASP-ZAP, Netcat  
-- **Operating Systems:** Windows, Linux, MacOS, Remnux, Ubuntu, Flare VM  
-- **Networking & Security:** BGP, OSPF, RIP, TCP/IP, IDS/IPS, SIEM, Cyber Threat Hunting  
-- **Frameworks & Compliance:** NIST, ISO, GDPR, HIPAA, PCI-DSS  
-- **Cloud Platforms:** AWS, Azure, Google Cloud  
-- **Malware Analysis:** Static & Dynamic Analysis, Reverse Engineering, YARA Rules  
-- **Soft Skills:** Organization, Collaboration, Time Management, Communication  
+### 🛡️ Cybersecurity Analyst Intern  
+**Repo Builders**, New Delhi, India  
+*Jan 2022 – Apr 2022*  
+- Supported **penetration testing and policy enforcement**  
+- Ensured **compliance** with organizational security frameworks and procedures  
 
 ---
 
-## 🔥 Academic Projects & Labs
+## 🧰 Skills & Tools
 
-### **Secure File Storage in Cloud Computing using Hybrid Cryptography**
-- Developed a key distribution system to minimize unauthorized access.
-- Applied AES and RSA encryption for enhanced data protection.
+- **Languages:** Python, C, C++, SQL, HTML, CSS  
+- **Penetration Testing:** Metasploit, Burp Suite, Hydra, Nmap, OWASP-ZAP, Netcat  
+- **Digital Forensics:** Wireshark, Autopsy, FTK Imager, SQLite Forensics  
+- **SIEM & Threat Detection:** Splunk, ArcSight, Wazuh  
+- **OS & Environments:** Windows, Linux, Remnux, Ubuntu, Flare VM  
+- **Security Frameworks:** NIST, MITRE ATT&CK, OWASP, ISO 27001, GDPR, HIPAA  
+- **Cloud Security:** AWS, Azure, GCP  
+- **Malware Analysis:** Ghidra, IDA Pro, OllyDbg, YARA Rules  
+- **Soft Skills:** Communication | Time Management | Collaboration | Adaptability  
 
-### **Petya Malware Analysis**
-- Reverse-engineered Petya malware using IDA Pro, Ghidra, and OllyDbg.
-- Utilized YARA rules, Wireshark, and Splunk for network analysis.
+---
 
-### **BGP Exploration and Attack**
-- Configured BGP with Large Communities for real-world network simulation.
-- Conducted network prefix hijacking and mitigation techniques.
+## 📚 Academic Projects & Labs
+
+### 📱 Behavioral Analysis of Mobile Users Through Forensic Data (Capstone Project)
+- Developed an Android app that **tracks user behavior** such as app usage, keyword detection, GPS patterns, and encrypted apps.  
+- Built a **forensic toolkit** with risk-tagging logic, SQLite logging, dynamic dashboards, and **alerts for suspicious activity**.  
+- Integrated backend using **Python Flask** and visualized data using charts & reports for crime pattern detection.  
+
+### 🔐 Secure File Storage in Cloud Computing (Hybrid Cryptography)
+- Built a cloud-based encryption system using **AES + RSA** hybrid model  
+- Implemented secure key sharing to prevent unauthorized access  
+
+### 🧬 Petya Malware Technical Analysis
+- Conducted **static and dynamic malware analysis**  
+- Used **YARA**, **Wireshark**, and reverse engineering tools to dissect the infection chain  
+
+### 🌐 BGP Attack Simulation & Mitigation
+- Simulated **BGP hijacking and route manipulation** in GNS3  
+- Explored **network security measures** and mitigation strategies  
 
 ---
 
 ## 🎓 Education
 
-🎓 **MS in Cybersecurity** | Pace University, Seidenberg School of CSIS | *May 2025* | **GPA: 3.7**  
-🎓 **B.Tech in Information Technology** | Vignan’s Lara Institute of Technology & Science | *May 2023* | **GPA: 3.3**  
+🎓 **M.S. in Cybersecurity**  
+Pace University – Seidenberg School of CSIS  
+✅ **May 2025** | 📊 GPA: 3.7  
+
+🎓 **B.Tech in Information Technology**  
+Vignan’s Lara Institute of Technology and Science  
+📅 **May 2023** | 📊 GPA: 3.3  
 
 ---
 
-Let's collaborate on exciting security projects! 🔐🚀
+## 🤝 Let's Connect & Collaborate!
+
+I’m open to cybersecurity roles including **SOC Analyst, Digital Forensics, Penetration Testing, Threat Intelligence**, and **GRC**.
+
+I love collaborating on security projects, building forensic tools, and analyzing threats — let’s connect and secure the digital world together!
